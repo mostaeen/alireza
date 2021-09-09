@@ -6,7 +6,7 @@ body, html {
     background-image: url("img/background.jpg");
   
     /* Full height */
-    height: 100%;
+    height:min-content;
   
     /* Center and scale the image nicely */
     background-position: center;
